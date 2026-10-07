@@ -1,0 +1,6 @@
+@DigiPayWeather_HostAddress = http://localhost:5260
+
+GET {{DigiPayWeather_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
